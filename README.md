@@ -3,6 +3,6 @@
 
 </header>
 
-##1. Find the default installation path of programs (use the internet and verify on your machine)
+## 1. Find the default installation path of programs (use the internet and verify on your machine)
 
-##. Find the browser app id
+## 2. Find the browser app id

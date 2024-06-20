@@ -29,7 +29,7 @@ function copy-script
 
     write-host "Setting home drive + directory..."
     set-aduser $PASTE -server $SERVER -homedrive U:
-    set-aduser $PASTE -server $SERVER -homedirectory \\clarkfp01\scanning\$paste
+    set-aduser $PASTE -server $SERVER -homedirectory \\XXXXXXXXXXX #REMOVED FOR SECURIY
 
     write-host "Setting department"
     set-aduser $PASTE -server $SERVER -department $department
